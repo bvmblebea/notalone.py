@@ -1,7 +1,7 @@
 import requests
 
 
-class NotAloneClient:
+class NotAlone:
     def __init__(self):
         self.api = "https://api.notalone.tv"
         self.api_key = "odsu6JggH90Z1D69AVCw"
